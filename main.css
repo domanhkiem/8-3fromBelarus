@@ -29,7 +29,7 @@
 }
 @media (min-width: 390px) and (max-width: 500px) {
     .heart-head {
-        top: 40vh;
+        top: 39vh;
         left: 50%;
         transform: translateX(-50%);
         z-index: 1;
