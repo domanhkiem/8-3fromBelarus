@@ -29,7 +29,7 @@
 }
 @media (min-width: 390px) and (max-width: 500px) {
     .heart-head {
-        top: 41.75vh;
+        top: 41.0vh;
         left: 50%;
         transform: translateX(-50%);
         z-index: 1;
@@ -82,7 +82,7 @@
     left:50%;
     transform: translateX(-50%);
     top: 12vh;
-    font-size: 20px;
+    font-size: 27px;
     color: red;
     font-family: 'Style Script', cursive;
 }
