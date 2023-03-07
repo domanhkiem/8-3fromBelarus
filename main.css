@@ -29,7 +29,7 @@
 }
 @media (min-width: 390px) and (max-width: 500px) {
     .heart-head {
-        top: 41.0vh;
+        top: 40vh;
         left: 50%;
         transform: translateX(-50%);
         z-index: 1;
@@ -88,12 +88,14 @@
 }
 .footer {
     position: absolute;
-    bottom: 2vh;
-    right: 1vw;
-    color: #e6668a;
+    bottom: 30vh;
+    right: 51%;
+    transform: translateX(50%);
+    color: red;
     font-weight: 550;
     font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Style Script', cursive;
+    font-size: 27px;
     
 }
 @media (min-width: 1000px) {
